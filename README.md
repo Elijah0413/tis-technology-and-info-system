@@ -6,7 +6,7 @@
 
 > Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
 
-![Career](assets/img/caeer.jpeg)
+![Career](asset/caeer.jpeg)
 
 ### Assignment 2 (Presentation Ch 7 & 8)
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
