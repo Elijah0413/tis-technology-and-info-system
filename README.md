@@ -22,6 +22,7 @@
 
 ---
 - [x] Assignment 3 (Design Thinking)
+
 >In design thinking, inventors create or modify applications, employing critical thinking to meet users' needs. The core principles are empathy, ideate, prototyping, and iteration adapt to solve complex problems, >ensuring effective, user-friendly solutions. There are many types of computer software, such as educational software, utility software, application software, enterprise software, programming software and system >software. However, our report mainly delves into educational software, emphasizing the importance of tailored solutions within this broader domain.
 
 - [Design Thinking YouTube]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=AEObz1Dx_Mo))
@@ -34,6 +35,7 @@
 ---
 - [x] About PC ASSEMBLE
  <p> <img align="right" width="15%" src="https://www.your10.co.in/wp-content/uploads/2020/08/SMPS.jpg" />
+
 > During the **PC assembly session**, I gained insight into the internal components of a computer that I had never encountered before. Initially, participants were organized into groups of four or five members, with each group sharing a single CPU. The CPU was disassembled before we reassembled it collectively. Subsequently, we installed the motherboard into the CPU frame. Following the motherboard installation, we placed the processor and cooler fan in position. We ensured the processor was correctly aligned before securing it.
 
 > Afterwards, we inserted the cooler fan into the processor and secured it. The power supply wire was also connected to the motherboard. Following that, the RAM board was inserted into the frame. Finally, we plugged in the VGA card, wire card, and all other cables before installing the cover case.
