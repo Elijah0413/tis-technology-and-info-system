@@ -3,11 +3,11 @@
 - [x] Assignment 1 (Career Development)
 
 [Poster linkedin](https://www.linkedin.com/posts/esys-sheng-34a008299_throughout-this-talk-we-learn-about-the-activity-7126741162597478400-LE9Q?utm_source=share&utm_medium=member_desktop)
- <p> <img align="right" width="50%" src="https://media.tenor.com/B4KaZHx5rh4AAAAM/shrimp-cute.gif" />
+ <p> <img align="right" width="30%" src="asset/caeer.jpeg" />
 > Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
 
 
-![Career](asset/caeer.jpeg)
+![Career]()
 
 - [x] Assignment 2 (Presentation Ch 7 & 8)
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
