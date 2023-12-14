@@ -29,6 +29,7 @@
 
   ##Presentation Slide
   > ![design thinking](assets/design)
+   <p> <img align="right" width="15%" src="asset/img/design1.png" />
 ---
 - [x] Assignment 5 (Video on UTMDigital)
 
