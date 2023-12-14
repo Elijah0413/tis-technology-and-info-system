@@ -41,8 +41,8 @@
 
 
 
-> On the 13th of December 2023, our class, TIS SECP1013 Section 02, had the privilege of visiting UTMDigital, courtesy of Dr Aryati. The office spaces at UTMDigital were designed in the style of Google Spaces, offering a flexible and collaborative environment capable of accommodating up to 60 staff members simultaneously. Plans were underway to expand the office further, adding more tables to facilitate an additional 20 to 25 staff. The open office layout featured workspaces, meeting rooms, discussion areas, and relaxation spaces, all contributing to a conducive and productive atmosphere for the staff.
-<p align="left"><a href="https://www.youtube.com/watch?v=IOGpYbVdmgk"><img src="http://img.youtube.com/vi/IOGpYbVdmgk/0.jpg" width="15%" height="15%" /></a></p>
+ On the 13th of December 2023, our class, TIS SECP1013 Section 02, had the privilege of visiting UTMDigital, courtesy of Dr Aryati. The office spaces at UTMDigital were designed in the style of Google Spaces, offering a flexible and collaborative environment capable of accommodating up to 60 staff members simultaneously. Plans were underway to expand the office further, adding more tables to facilitate an additional 20 to 25 staff. The open office layout featured workspaces, meeting rooms, discussion areas, and relaxation spaces, all contributing to a conducive and productive atmosphere for the staff.
+<p align="right"><a href="https://www.youtube.com/watch?v=IOGpYbVdmgk"><img src="http://img.youtube.com/vi/IOGpYbVdmgk/0.jpg" width="15%" height="15%" /></a></p>
 
 > Our tour continued to the UTM Digital Care offices, where we gained insights into their pivotal role in addressing ICT issues through email correspondence. The problem-solving process involved multiple levels; initial resolutions occurred at the ground level through emails or simple calls. Persistent issues escalated to level 1, involving the technical team, and the final level, level 2, included direct engagement with providers like Telekom Malaysia.
 
