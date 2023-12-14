@@ -1,28 +1,7 @@
 # Reflection on UTM Digital
-### UTMDigital Virtual Talk
-On the 13th of December 2023, a virtual talk on UTMDigital was held online through webex platform. The moderator in charge was Dr. Aryati binti Bakri. The speakers, or staff from UTMDigital present were:
-
-1. Ms. Aslinda binti Mohamed Aris
-2. Ts. Mr. Mohammed bin Mohd Hasni
-3. Mr. Mohd Hamri bin Md. Yusuf
-4. Ts. Mr. Khairul Nizam bin Md Razali
-5. Mr. Noor Haslan bin Sallehudin
-6. Mr. Helmee bin Yaacob
-
-The contents of the talk includes UTM Digital Services, UTM Data Centre, UTM Network Architecture, UTM Wi-Fi, ICT Security Management, Project Management and System Development of Digital Innovation.
-
-<p align="center">
-<img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/UTMDigital%20(Virtual%20Talk%20%26%20Industrial%20Visit)/utmdigitalvirtualtalk.jpg" width="60%" height="60%" />
-</p>
-<p align="center">Promotional Poster for UTM Digital Virtual Talk by UTM</p>
-<br>
-
-Throughout the talk, I learned a lot of the functions of UTMDigital and how important they are in maintaining the digital services for UTM. For instance, Mr. Noor Haslan bin Sallehudin speaks about the ICT Security Management where they can detect user activity, whether it was their browsing history, amount of bandwidth used and blocking the usage of VPN among UTM Wi-Fi users.
-
-
 
 ### UTMDigital Industrial Visit
-On the 6th of December 2023, Dr Azurah A SAMAD brought our class, TIS SECP1513 Section 05 to visit UTMDigital.
+On the 13th of December 2023, Dr Azurah A SAMAD brought our class, TIS SECP1513 Section 05 to visit UTMDigital.
 We were introduced with the faculties of UTMDigital, including their open offices and UTM Digital Care.
 
 <p align="center">
