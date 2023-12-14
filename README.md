@@ -3,7 +3,7 @@
 - [x] Assignment 1 (Career Development)
 
 [Poster linkedin](https://www.linkedin.com/posts/esys-sheng-34a008299_throughout-this-talk-we-learn-about-the-activity-7126741162597478400-LE9Q?utm_source=share&utm_medium=member_desktop)
- <p> <img align="right" width="10%" src="asset/caeer.jpeg" />
+ <p> <img align="right" width="15%" src="asset/caeer.jpeg" />
 > Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
 
 
@@ -12,7 +12,7 @@
 - [x] Assignment 2 (Presentation Ch 7 & 8)
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
 > The ubiquity of technology prompts consideration of its ramifications, particularly concerning personal privacy. The question arises as to whether technology facilitates unauthorized access to our private information. Instances such as applying for a loan, obtaining a driver's license, or conducting transactions at supermarkets raise concerns about the potential dissemination and utilization of our information without explicit consent. Similarly, the pervasive use of the internet prompts reflection on the collection and sharing of personal data. A critical inquiry emerges regarding the ways in which criminals might exploit this information for illicit purposes, such as **ransom, blackmail, or acts of vandalism.**
-<p> <img align="right" width="10%" src="asset/discussion" />
+<p> <img align="right" width="15%" src="asset/discussion" />
 
 
 
@@ -34,8 +34,8 @@
 
 > This experience felt like a once-in-a-lifetime opportunity that I will never forget. I also learned about the functions of each component in the CPU and how they contribute to the overall system, thanks to **Dr. Aryati and the technicians**.
 <br>
- 
- <img src="https://www.your10.co.in/wp-content/uploads/2020/08/SMPS.jpg" alt="The interior of the PC that was disassembled"/>
+
+ <p> <img align="right" width="15%" src="https://www.your10.co.in/wp-content/uploads/2020/08/SMPS.jpg" />
     <br><br><br>
 
 
