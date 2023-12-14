@@ -5,6 +5,7 @@
 
 - [x] Assignment 1 (Career Development) 
 [Poster linkedin](https://www.linkedin.com/posts/esys-sheng-34a008299_throughout-this-talk-we-learn-about-the-activity-7126741162597478400-LE9Q?utm_source=share&utm_medium=member_desktop)
+
 > Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
 
 
@@ -15,6 +16,7 @@
 
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
 <p> <img align="right" width="15%" src="asset/discussion" />
+
 > The ubiquity of technology prompts consideration of its ramifications, particularly concerning personal privacy. The question arises as to whether technology facilitates unauthorized access to our private information. Instances such as applying for a loan, obtaining a driver's license, or conducting transactions at supermarkets raise concerns about the potential dissemination and utilization of our information without explicit consent. Similarly, the pervasive use of the internet prompts reflection on the collection and sharing of personal data. A critical inquiry emerges regarding the ways in which criminals might exploit this information for illicit purposes, such as **ransom, blackmail, or acts of vandalism.**
 
 
