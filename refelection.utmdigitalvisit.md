@@ -1,7 +1,7 @@
 # Reflection on UTM Digital
 
 ### UTMDigital Industrial Visit
-On the 13th of December 2023, Dr Azurah A SAMAD brought our class, TIS SECP1513 Section 05 to visit UTMDigital.
+On the 13th of December 2023, Dr Aryati brought our class, TIS SECP1013 Section 05 to visit UTMDigital.
 We were introduced with the faculties of UTMDigital, including their open offices and UTM Digital Care.
 
 <p align="center">
@@ -18,7 +18,7 @@ Their open offices adapt google spaces offices that could fit 60 staff at once. 
 <p align="center">UTM Digital Care Office</p>
 <br>
 
-Next was the UTM Digital Care offices. Their main role in UTM Digital services is to address ICT issues through e-mails. The issues received would go through multiple levels. At level 0, they are settled first through e-mail or a simple call. If the problem persists, it would go to the next level, level 1 that involves the technical team. The last level, level 2 would include straight to the providers, such as Telekom Malaysia.
+Next was the UTM Digital Care offices. Their main role in UTM Digital services is to address ICT issues through e-mails. The issues received would go through multiple levels. At ground level, they are settled first through e-mail or a simple call. If the problem persists, it would go to the next level, level 1 that involves the technical team. The last level, level 2 would include straight to the providers, such as Telekom Malaysia.
 
 <p align="center">
 <a href="https://www.youtube.com/watch?v=IOGpYbVdmgk"><img src="http://img.youtube.com/vi/IOGpYbVdmgk/0.jpg" width="60%" height="60%" /></a>
