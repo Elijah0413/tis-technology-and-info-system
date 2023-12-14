@@ -1,6 +1,6 @@
 # **tis-technology-and-info-system**
 # **Assignment**
-- [x] ### Assignment 1 (Career Development)
+- [x] ###Assignment 1 (Career Development)
 
 [Poster linkedin](https://www.linkedin.com/posts/esys-sheng-34a008299_throughout-this-talk-we-learn-about-the-activity-7126741162597478400-LE9Q?utm_source=share&utm_medium=member_desktop)
 
