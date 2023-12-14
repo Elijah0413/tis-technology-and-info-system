@@ -28,7 +28,7 @@
 
 - [Design Thinking YouTube]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=AEObz1Dx_Mo))
 
-  ##Presentation Slide
+  ## Presentation Slide
  
 
 ---
