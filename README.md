@@ -16,18 +16,17 @@
 
 
 <p> <img align="right" width="15%" src="asset/discussion" />
-  <p> <img align="right" width="15%" src="asset/img/design1.png" />
+
 
 > The ubiquity of technology prompts consideration of its ramifications, particularly concerning personal privacy. The question arises as to whether technology facilitates unauthorized access to our private information. Instances such as applying for a loan, obtaining a driver's license, or conducting transactions at supermarkets raise concerns about the potential dissemination and utilization of our information without explicit consent. Similarly, the pervasive use of the internet prompts reflection on the collection and sharing of personal data. A critical inquiry emerges regarding the ways in which criminals might exploit this information for illicit purposes, such as **ransom, blackmail, or acts of vandalism.**
 
 
 ---
 - [x] Assignment 3 (Design Thinking)
-
+<p> <img align="right" width="15%" src="asset/img/design1.png" />
 >In design thinking, inventors create or modify applications, employing critical thinking to meet users' needs. The core principles are empathy, ideate, prototyping, and iteration adapt to solve complex problems, >ensuring effective, user-friendly solutions. There are many types of computer software, such as educational software, utility software, application software, enterprise software, programming software and system >software. However, our report mainly delves into educational software, emphasizing the importance of tailored solutions within this broader domain.
 
 - [Design Thinking YouTube]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=AEObz1Dx_Mo))
- ![design thinking](assets/design)
   ##Presentation Slide
  
 
