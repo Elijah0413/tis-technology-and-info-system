@@ -1,8 +1,7 @@
 # Reflection on UTM Digital
 
 ### UTMDigital Industrial Visit
-On the 13th of December 2023, Dr Aryati brought our class, TIS SECP1013 Section 05 to visit UTMDigital.
-We were introduced with the faculties of UTMDigital, including their open offices and UTM Digital Care.
+On the 13th of December 2023, Dr Aryati brought our class, TIS SECP1013 Section 02 to visit UTMDigital.
 
 <p align="center">
 <img src="https://github.com/dotrovi/UTM-e-Portfolio/blob/main/UTMDigital%20(Virtual%20Talk%20%26%20Industrial%20Visit)/utmopenoffices.jpg" width="60%" height="60%" />
