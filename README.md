@@ -12,6 +12,7 @@
 
 ---
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
+-> https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link
 - [x] Assignment 2 (Presentation Ch 7 & 8)
 
 
