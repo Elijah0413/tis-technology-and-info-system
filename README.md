@@ -11,6 +11,7 @@
 
 
 ---
+
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
 -> https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link
 - [x] Assignment 2 (Presentation Ch 7 & 8)
@@ -23,8 +24,10 @@
 
 
 ---
+
 - [x] Assignment 3 (Design Thinking)
 <p> <img align="right" width="15%" src="asset/img/design1.png" />
+
 >In design thinking, inventors create or modify applications, employing critical thinking to meet users' needs. The core principles are empathy, ideate, prototyping, and iteration adapt to solve complex problems, >ensuring effective, user-friendly solutions. There are many types of computer software, such as educational software, utility software, application software, enterprise software, programming software and system >software. However, our report mainly delves into educational software, emphasizing the importance of tailored solutions within this broader domain.
 
 - [Design Thinking YouTube]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=AEObz1Dx_Mo))
@@ -33,6 +36,7 @@
  
 
 ---
+
 - [x] Assignment 5 (Video on UTMDigital)
 
 ---
