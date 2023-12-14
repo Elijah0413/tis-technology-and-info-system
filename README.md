@@ -39,7 +39,7 @@
 
 - [x] Assignment 5 ( UTMDigital visit)
 
-<p align="right">
+<p align="left">
 <a href="https://www.youtube.com/watch?v=IOGpYbVdmgk"><img src="http://img.youtube.com/vi/IOGpYbVdmgk/0.jpg" width="15%" height="15%" /></a>
 </p>
 
