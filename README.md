@@ -104,7 +104,7 @@ This course serves as an introductory introduction to information systems and te
 > This experience felt like a once-in-a-lifetime opportunity that I will never forget. I also learned about the functions of each component in the CPU and how they contribute to the overall system, thanks to **Dr. Aryati and the technicians**.
 <br>
 
-   PC ASSEMBLE
+---
 
 **7) <ins>Assignment 7 (Report)**
 - Description:
