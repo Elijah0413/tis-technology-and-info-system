@@ -63,8 +63,8 @@ This course serves as an introductory introduction to information systems and te
     <th>Huawei</th>
   </tr>
   <tr>
-    <td><img src="assignment/assignment2/myself.jpg" height=350 width=350></td>
-    <td><img src="assignment/assignment2/yeah.jpg" height=350 width=350></td>
+    <td><img src="image/image1.jpeg" height=350 width=350></td>
+    <td><img src="image/image2.jpeg" height=350 width=350></td>
   </tr>
 </table>
 
