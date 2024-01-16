@@ -131,7 +131,7 @@ This course serves as an introductory introduction to information systems and te
   </tr>
   <tr>
     <td><img src="assignment/assignment7/WhatsApp Image 2024-01-03 at 2.49.01 PM (1).jpeg" height=350 width=350></td>
-    <td><img src="image/image2.jpeg" height=350 width=350></td>
+    <td><img src="assignment/assignment7/WhatsApp Image 2024-01-03 at 2.49.01 PM.jpeg" height=350 width=350></td>
   </tr>
 </table>
 
