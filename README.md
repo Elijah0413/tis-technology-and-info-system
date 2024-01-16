@@ -75,8 +75,8 @@ This course serves as an introductory introduction to information systems and te
 - Photos:<br/>
   </tr>
   <tr>
-    <td><img src="assignment2/myself.JPG" height=350 width=350></td>
-    <td><img src="assignment2/yeah.jpg" height=350 width=350></td>
+    <td><img src="assignment/assignment2/myself.JPG" height=350 width=350></td>
+    <td><img src="assignment/assignment2/yeah.jpg" height=350 width=350></td>
   </tr>
 </table>
 
