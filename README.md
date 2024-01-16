@@ -55,8 +55,10 @@ REFLECTION  Both of the industry visits highlighted the importance of lifelong l
 
 >In design thinking, inventors create or modify applications, employing critical thinking to meet users' needs. The core principles are empathy, ideate, prototyping, and iteration adapt to solve complex problems, >ensuring effective, user-friendly solutions. There are many types of computer software, such as educational software, utility software, application software, enterprise software, programming software and system >software. However, our report mainly delves into educational software, emphasizing the importance of tailored solutions within this broader domain.
 
-- [Design Thinking YouTube]([https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=AEObz1Dx_Mo))
-- (https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA](https://www.youtube.com/watch?v=AEObz1Dx_Mo)
+- [Video for Design Thinking](https://www.youtube.com/watch?v=AEObz1Dx_Mo)
+- [Report of Design Thinking](https://github.com/cxchew/TIS/blob/main/image/tis%20assignment%20rework%20(1)%20(1).docx)
+- [Slide for presenting Design Thinking]
+
   ## Presentation Slide
  
 
@@ -118,3 +120,6 @@ REFLECTION  Both of the industry visits highlighted the importance of lifelong l
 - Photo:<br/>
   <img src="/image/Industry Talk 2.jpeg" height=50% width=50%>
   <br/>
+
+
+
