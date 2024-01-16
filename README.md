@@ -72,7 +72,7 @@ REFLECTION  Both of the industry visits highlighted the importance of lifelong l
     <th>Huawei</th>
   </tr>
   <tr>
-    <td><img src="/image/WhatsApp Image 2023-11-17 at 22.37.52.jpeg" height=350 width=350></td>
+    <td><img src="image/WhatsApp Image 2023-11-17 at 21.05.53.jpeg" height=350 width=350></td>
     <td><img src="/image/WhatsApp Image 2023-11-17 at 21.05.53.jpeg" height=350 width=350></td>
   </tr>
 </table>
