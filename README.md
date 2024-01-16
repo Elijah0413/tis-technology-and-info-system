@@ -60,7 +60,7 @@ This course serves as an introductory introduction to information systems and te
 
 ---
 
- #  <ins>Assignment 4 (Newsletter)
+- [x] Assignment 4 (Newsletter)
 
   - Photo:
     <table>
@@ -117,7 +117,7 @@ This course serves as an introductory introduction to information systems and te
 
 ---
 
-#  Assignment 7 (Report)
+- [x] Assignment 7 (Report)
   <table>
  <tr>
     <th>picture 1 </th>
