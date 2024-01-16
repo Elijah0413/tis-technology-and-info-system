@@ -107,7 +107,7 @@ This course serves as an introductory introduction to information systems and te
     <br><br><br>
 
 
-**7) <ins>Assignment 6 (Report)**
+**7) <ins>Assignment 7 (Report)**
 - Description:
   > On Thursday, 28th December 2023, Credence (TM Subsidiary) had organised an industrial talk for our UTM Students. The talk is about the system development of Credence and journey of having a career in analytic industry. Besides that, the talk also mentioned about their unique workplace culture in their company that can make them more comfortable in their workplace while working. Through the talk, we had widened our understanding about the technologies will be used in an industry and career we could have in our future for our course. Besides that, we also learned about some useful tips and motivation that can help us in our future. For example, we must eager to learn new things and explore more environment around us. The reason is to encourage us to walk out of our comfort zones and try to know more about our working partners and make friends with them while working in the industry.
   > In conclusion, even though the talk was very short, but it was resourceful as we able to learn more about the working environment in Credence and help us to know more about what we might be facing while having a career in an industry in the future. Thanks to our lecturer, Dr Aryati and the organiser of the talk, Miss Qistina for letting us to have a fun and memorable talk. We will always remember what we had learnt from the talk and apply it while in the industry after our graduation.
