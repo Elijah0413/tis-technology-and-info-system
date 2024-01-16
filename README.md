@@ -73,9 +73,12 @@ This course serves as an introductory introduction to information systems and te
 - [x] Assignment 5 ( UTMDigital visit)
 - [Video](https://www.youtube.com/watch?v=46His0jLaX4)
 - Photos:<br/>
-  <img src="/image/IMG_0754.JPG" height=50% width=50%> <img src="/image/IMG_0702.JPG" height=50% width=50%>
-  <br/>
- <p> <img align="right" width="15%" src="http://img.youtube.com/vi/IOGpYbVdmgk/0.jpg"<a href="https://www.youtube.com/watch?v=IOGpYbVdmgk"> />
+  </tr>
+  <tr>
+    <td><img src="image/image1.jpeg" height=350 width=350></td>
+    <td><img src="image/image2.jpeg" height=350 width=350></td>
+  </tr>
+</table>
 
 > On the 13th of December 2023, our class, TIS SECP1013 Section 02, had the privilege of visiting UTMDigital, courtesy of Dr Aryati. The office spaces at UTMDigital were designed in the style of Google Spaces, offering a flexible and collaborative environment capable of accommodating up to 60 staff members simultaneously. Plans were underway to expand the office further, adding more tables to facilitate an additional 20 to 25 staff. The open office layout featured workspaces, meeting rooms, discussion areas, and relaxation spaces, all contributing to a conducive and productive atmosphere for the staff.
 
