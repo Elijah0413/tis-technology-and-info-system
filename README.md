@@ -14,18 +14,7 @@ This course serves as an introductory introduction to information systems and te
 |28.12.2023 | Virtual industry talk about System Development |
 
 
-# **Assignment**
-# 1. Assignment 1 Poster
-REFLECTION  I was greatly influenced by this discussion regarding the important job application. I realize that before starting my internship program, I should start drafting my job application and making it the best. Apart from that, I'll make an effort to take part in more computer science related events like the upcoming Compfair in order to learn new skills that will be useful to me in the future.
 
-# 2. Assignment 2 Video
-REFLECTION  After visit UTM Digital Center, I learnt more about a concept of the actual working environment in the organization might be gained during an industrial visit. For instance, UTM Digital shows us around their open office, which has a workspace, a meeting room, and other areas for relaxation. Beside that, this industry visits also fill the knowledge gap between classroom instruction and practical knowledge in an actual workplace. When I visit the UTM data center, I are putting our theoretical knowledge into practice. In conclusion, this talk and visit to UTM Digital provided a better understanding of their main work and working environment, deepening our knowledge of computer-related topics.
-
-# 3. Assignment 3 Report
-REFLECTION  In the next four years, I want to discover more about new development processes, programming languages, and technologies. Not only in school, but also participate in online forums and webinars about system development. Therefore, I'll become a well-rounded developer one day.
-
-# 4. Assignment 4 NewsLetter
-REFLECTION  Both of the industry visits highlighted the importance of lifelong learning. Especially as a student of computer science, we cannot stop learning new things if we do not want to fall behind because technology is advancing daily. For instance, becoming a successful data engineer requires having a number of abilities, including analytical thinking, problem-solving, programming, productivity, and an awareness of the SDLC.
 <p> <img align="right" width="15%" src="asset/caeer.jpeg" />
 
 - [x] Assignment 1 (Career Development) 
