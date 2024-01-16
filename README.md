@@ -1,4 +1,3 @@
-# **tis-technology-and-info-system**
 # Technology and Information System 
 This course serves as an introductory introduction to information systems and technology (IS/IT) and how it can be used both at home and at work. There will be an introduction to several parts of IS/IT, including network, communications, hardware, and software. A significant part of the study will be focused in the labs where students will gain actual experience with PC installation and productivity applications. As part of work-based learning, this class regularly hosts seminars and visits from industry leaders. Students will be exposed to a real working environment, learn from the business, and see an increase in industry-university engagement through both industry visits and seminars. Additionally, the student does a quick investigation into the required skills and employment requirements for an IT career.
 
