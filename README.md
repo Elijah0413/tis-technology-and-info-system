@@ -20,7 +20,7 @@
 
 <p> <img align="right" width="15%" src="asset/caeer.jpeg" />
 
-- [x] Assignment 1 (Career Development) 
+# Assignment 1 (Career Development) 
 [Poster linkedin](https://www.linkedin.com/posts/esys-sheng-34a008299_throughout-this-talk-we-learn-about-the-activity-7126741162597478400-LE9Q?utm_source=share&utm_medium=member_desktop)
 
 > Throughout this talk, we learn about the journey of a data engineer, from obtaining a bachelor's degree, entering the industry for internships, and becoming a full-fledged data engineer analyst. In the future, he or she will evolve into a data engineering specialist.
@@ -31,7 +31,7 @@
 
 [presentation slide](https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link)
 -> https://drive.google.com/file/d/1xTrJZGQe1PjWYymB2eztPliefIQKypp_/view?usp=drive_link
-- [x] Assignment 2 (Presentation Ch 7 & 8)
+# Assignment 2 (Presentation Ch 7 & 8)
 
 
 <p> <img align="right" width="15%" src="asset/discussion" />
@@ -42,7 +42,7 @@
 
 ---
 
-- [x] Assignment 3 (Design Thinking)
+# Assignment 3 (Design Thinking)
 
 - Photo:
     <table>
@@ -63,7 +63,7 @@
 
 ---
 
-- [x] Assignment 4 (Newsletter)
+# Assignment 4 (Newsletter)
 
   - Photo:
     <table>
@@ -84,7 +84,7 @@
 
 ---
 
-- [x] Assignment 5 ( UTMDigital visit)
+# Assignment 5 ( UTMDigital visit)
 - [Video](https://www.youtube.com/watch?v=46His0jLaX4)
 - Photos:<br/>
   </tr>
@@ -107,7 +107,7 @@
       
 
 ---
-- [x] Assignment 6 About PC ASSEMBLE
+# Assignment 6 About PC ASSEMBLE
 
  <p> <img align="right" width="15%" src="https://www.your10.co.in/wp-content/uploads/2020/08/SMPS.jpg" />
 
@@ -120,7 +120,7 @@
 
 ---
 
-- [x] Assignment 7 (Report)
+# Assignment 7 (Report)
   <table>
  <tr>
     <th>picture 1 </th>
