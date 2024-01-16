@@ -57,10 +57,6 @@ This course serves as an introductory introduction to information systems and te
 
 - [Video for Design Thinking](https://www.youtube.com/watch?v=AEObz1Dx_Mo)
 - [Report of Design Thinking](https://github.com/cxchew/TIS/blob/main/image/tis%20assignment%20rework%20(1)%20(1).docx)
-- [Slide for presenting Design Thinking]
-
-  ## Presentation Slide
- 
 
 ---
 **4) <ins>Assignment 4 (Newsletter)**
