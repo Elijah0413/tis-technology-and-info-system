@@ -72,8 +72,8 @@ REFLECTION  Both of the industry visits highlighted the importance of lifelong l
     <th>Huawei</th>
   </tr>
   <tr>
-    <td><img src="Elijah0413/tis-technology-and-info-system/image/image1.jpeg" height=350 width=350></td>
-    <td><img src="Elijah0413/tis-technology-and-info-system/image/image2.jpeg" height=350 width=350></td>
+    <td><img src="image/image1.jpeg" height=350 width=350></td>
+    <td><img src="image/image2.jpeg" height=350 width=350></td>
   </tr>
 </table>
 
