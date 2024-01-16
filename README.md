@@ -66,7 +66,7 @@ This course serves as an introductory introduction to information systems and te
   - [Newsletter](https://github.com/Elijah0413/tis-technology-and-info-system/blob/main/assignment/assignment4/ASSIGNMENT%203%20INDUSTRY%20VISIT%20HUAWEIPETRONAS%20GROUP%202%20(1).pdf)
   - Photo:
 =======
-**4) <ins>Assignment 4 (Newsletter)**
+# Assignment 4 (Newsletter)**
  - Photo:
 >>>>>>> b6e9ef6100bad75a61237e3294b8bcef8e03a80a
     <table>
@@ -123,7 +123,7 @@ This course serves as an introductory introduction to information systems and te
 
 ---
 
-#  <ins>Assignment 7 (Report)**
+#  Assignment 7 (Report)
   <table>
  <tr>
     <th>picture 1 </th>
