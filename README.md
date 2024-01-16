@@ -110,24 +110,6 @@ REFLECTION  Both of the industry visits highlighted the importance of lifelong l
     <br><br><br>
 
 
-
-
-**5) <ins>Assignment 5 (Video)**
-- Description:
-  > On Wednesday, 13th of December 2023, our class, SECP1513 Section 2 and Section 3, had an academic visit to UTM Digital. Thanks to Dr Aryati, our beloved lecturer, we finally had a chance to witness our university's digital centre. Through the visits, we had a chance to visit many places in UTM Digital. Firstly, we visited their office space. The office is very huge, which it can accomodate up to 60 staff members. Even though the office space was very huge, they still have a plan to make an expansion toward their office, so that more staff members can be added into the office. Besides that, we had also visited UTM Digital Care office. In this office, we had a chance to learn about their role on addressing ICT issues. Last but not least, we also visited the highly-secured data center. This is the places where they managed and stored the data of students, lecturers and UTM staff members. Unfortunately, due to confidential of the operation, we were strictly prohibited to have any photography or videography.
-  > In conclusion, we had a very satisfied visit form UTM Digital. We had gained many valuable knowledges from the visit. This knowlegdes will help us on seeking opportunities on finding the course-related job in the future. Besides that, this visits also sparked our excitement on our future after completing bachelor's degree and working on the industry. Even though the visit ended very quickly, but I hope we still had a chance to visits UTM Digital for another time, learning more details about their works, but it's better if I can work in UTM Digital in the future.
-- [Video](https://www.youtube.com/watch?v=46His0jLaX4)
-- Photos:<br/>
-  <img src="/image/IMG_0754.JPG" height=50% width=50%> <img src="/image/IMG_0702.JPG" height=50% width=50%>
-  <br/>
-
-**6) <ins>PC Assembly**
-- Description:
-  > On Thursday, 22nd November 2023, we had a chance to attend a PC Assembly session. During the session, we had learned the interior of a PC and how all the components function inside the PC. For example, the cooling fan that installed on the CPU is to cool down the CPU and preventing it from overheating and causing damage to the CPU. The most importantly, we also learned how to assemble and disassemble a PC. We did the session with a members of four to five students in a group with one CPU each. The process of assembly and disassembly was a success without any of the components damaged.
-  > Overall, we had an unforgettable experience throughout the session. Thanks to Dr Aryati and the technicians for teaching us on how to succesfully assemble and disassemble CPU and how it's function. We will always remember what we had learned from the experience.
-
-- Photo:
-
 **7) <ins>Assignment 6 (Report)**
 - Description:
   > On Thursday, 28th December 2023, Credence (TM Subsidiary) had organised an industrial talk for our UTM Students. The talk is about the system development of Credence and journey of having a career in analytic industry. Besides that, the talk also mentioned about their unique workplace culture in their company that can make them more comfortable in their workplace while working. Through the talk, we had widened our understanding about the technologies will be used in an industry and career we could have in our future for our course. Besides that, we also learned about some useful tips and motivation that can help us in our future. For example, we must eager to learn new things and explore more environment around us. The reason is to encourage us to walk out of our comfort zones and try to know more about our working partners and make friends with them while working in the industry.
