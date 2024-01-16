@@ -51,7 +51,7 @@ REFLECTION  Both of the industry visits highlighted the importance of lifelong l
 ---
 
 - [x] Assignment 3 (Design Thinking)
-<p> <img align="right" width="15%" src="asset/img/design1.png" />
+
 
 >In design thinking, inventors create or modify applications, employing critical thinking to meet users' needs. The core principles are empathy, ideate, prototyping, and iteration adapt to solve complex problems, >ensuring effective, user-friendly solutions. There are many types of computer software, such as educational software, utility software, application software, enterprise software, programming software and system >software. However, our report mainly delves into educational software, emphasizing the importance of tailored solutions within this broader domain.
 
